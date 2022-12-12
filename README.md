@@ -7,5 +7,5 @@
 - 🌎 I’m located in Stockholm, Sweden.
 - 📫 How to reach me: Email me <a href="mailto: williamcarlstrom@hotmail.com">here</a>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a big fan of MAMAMOO
+- ⚡ Fun fact: I'm a huge fan of MAMAMOO
 
