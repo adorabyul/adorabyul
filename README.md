@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](github.com/adorabyul)
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]()
 <h1 align="center">Hi there 👋, I'm William</h1>
 <h3 align="center">A Fullstack Web Developer from Sweden</h3>
 
