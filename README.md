@@ -3,7 +3,7 @@
 <h3 align="center">A Fullstack Web Developer from Sweden</h3>
 
 <br>
-<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
+<img style="pointer-events: none;" align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
 
 - 🔭 I’m currently studying Fullstack Web Development at Chas Academy
 - 💻 I’m currently learning Node.js & MongoDB.
