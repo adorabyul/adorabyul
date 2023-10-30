@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
 
 - 🔭 I’m currently studying Fullstack Web Development at Chas Academy
-- 💻 I’m currently learning Node.js & MongoDB.
+- 💻 I’m currently doing an internship.
 - 🌎 I’m located in Stockholm, Sweden.
 - 📫 How to reach me: Email me <a href="mailto: williamcarlstrom@hotmail.com">here</a>
 - 😄 Pronouns: He/Him
