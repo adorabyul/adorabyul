@@ -19,7 +19,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,css,docker,express,figma,git,html,js,jquery,laravel,mysql,mongodb,nodejs,ps,php,react,sass,tailwind,ts,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,css,docker,express,figma,git,html,js,jquery,laravel,mysql,mongodb,nodejs,ps,php,react,sass,tailwind,ts,vscode,vue)](https://skillicons.dev)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adorabyul&show_icons=true&locale=en&layout=compact" alt="adorabyul" /></p>
